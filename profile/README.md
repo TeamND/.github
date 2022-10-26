@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 We are Team ND,
-we develop iOS Application📳
+we develop iOS Application 📱
 
 >
 - Front : [seungyooooong](https://github.com/seungyooooong)

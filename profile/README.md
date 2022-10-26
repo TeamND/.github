@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+We are Team ND,
+we develop iOS Application📳
+
+>
+- Front : seungyooooong
+- Back : e3hope
+
 <!--
 
 **Here are some ideas to get you started:**

@@ -4,8 +4,8 @@ We are Team ND,
 we develop iOS Application📳
 
 >
-- Front : seungyooooong
-- Back : e3hope
+- Front : [seungyooooong](https://github.com/seungyooooong)
+- Back : [e3hope](https://github.com/e3hope)
 
 <!--
 
